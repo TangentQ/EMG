@@ -1,3 +1,4 @@
 # EMG
-Electromyography / Signal Analysis Senior Project
+Electromyography / Signal Analysis
+
 Repository for Senior Project Work
