@@ -1,2 +1,3 @@
 Project_Data_Collection.py
 This is the data acquisition software to use with the DAQ, necessary drivers must be downloaded from www.labjack.com to use the DAQ.
+Current version of file uses AIN0 for the input.
