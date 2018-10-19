@@ -3,3 +3,5 @@ This is the data acquisition software to use with the DAQ, necessary drivers mus
 https://labjack.com/support/software/installers/ud to use the DAQ,
 along with the LabJackPython files found at https://github.com/labjack/LabJackPython
 Current version of file uses AIN0 for the input.
+Voltage is output into file Project_Output_Readings.txt
+Timed Frequency of signals is output into file Project_Output_Real_Hz.txt
